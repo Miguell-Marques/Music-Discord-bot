@@ -3,8 +3,7 @@ Discord music bot that actually works, just put your personal bot token and set 
 
 Commands that you can use: 
 
-{prefix}play (your youtube link here); 
-
+{prefix}p (seu link do youtube aqui);
 {prefix}skip;
 
 {prefix}stop;
